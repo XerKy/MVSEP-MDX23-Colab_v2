@@ -4,7 +4,7 @@ scipy
 tqdm
 librosa
 demucs
-onnxruntime-gpu
+onnxruntime-gpu==1.26.0
 torch
 pyyaml
 ml_collections
